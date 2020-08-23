@@ -1,0 +1,73 @@
+
+html, body, div {
+	margin:0px;
+	padding:0px;
+	
+	
+}
+
+
+
+header {
+	
+	margin: -19px;
+background-color:#989898; 
+height:85px;
+
+}
+
+
+#header img{
+		width: auto;
+		height: 85px;
+ position: absolute; top: 0px; left: 0px; 
+	
+	
+}
+
+#button_header h3{
+	
+	margin:-70px;
+	font-size: 200%;
+	color: white;
+	position: absolute; top: 95px; left: 430px;
+	text-align: center;
+	
+}
+
+
+
+
+html {	
+	font-family: sans-serif;
+	font-size: 90.5%;		
+}
+
+img {
+	width: 392px;
+	height: 123px;	
+}
+
+a{
+	color:#000;
+	text-decoration : None
+	
+}
+
+
+#container {
+	
+display:block;
+
+
+border: 1px solid #D7D7D7;
+margin:30px;
+padding:10px;
+float: left;
+
+position: relative;
+outline: none;
+box-sizing: inherit;
+
+}
+

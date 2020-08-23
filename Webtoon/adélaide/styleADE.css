@@ -1,0 +1,66 @@
+
+html, body, div {
+	margin:0px;
+	padding:0px;
+	
+	
+}
+
+header {
+	
+	
+background-color:#D7D7D7;  
+height:123px;
+
+}
+
+
+#header h1{
+	
+margin:0px;
+padding:0px;
+	
+	height: 120px;
+	
+}
+
+#button_header h3{
+	
+	margin:-70px;
+	font-size: 150%;
+	position: absolute; top: 125px; left: 500px;
+	text-align: center;
+	
+}
+
+
+
+
+html {	
+	font-family: sans-serif;
+	font-size: 90.5%;		
+}
+
+img {
+	width: 392px;
+	height: 123px;	
+}
+
+a{
+	color:#000;
+	text-decoration : None
+	
+}
+
+
+div {
+display:block;
+	
+margin: 10px;
+float: left;
+
+position: relative;
+outline: none;
+box-sizing: inherit;
+
+}
