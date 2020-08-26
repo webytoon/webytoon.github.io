@@ -23,6 +23,8 @@ height:85px;
 	
 }
 
+
+
 #button_header h3{
 	
 	margin:-70px;
@@ -35,12 +37,13 @@ height:85px;
 
 
 #Image img {
-	margin: -3px;
+	margin: -1.4px;
 }
 
 html {	
 	font-family: sans-serif;
 	font-size: 90.5%;	
+		margin: -1.4px;
 }
 
 #container-banner img {
@@ -62,6 +65,11 @@ a{
 	
 	
 display: inline-block;
+	
+}
+
+img {
+		margin: -1.6px;
 	
 }
 
